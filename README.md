@@ -1,4 +1,5 @@
-iso-work
+Pisiman
 ========
+Pisi linux iso oluşturma aracı.
 
-Pisi Linux iso creation tools and files
+Pisi Linux iso creation tools and files.
