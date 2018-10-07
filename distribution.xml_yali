@@ -1,0 +1,73 @@
+<PISI>
+    <SourceName>PisiLinux</SourceName>
+    <Version>2.0</Version>
+    <Description xml:lang="tr">PisiLinux 2.0 Deposu</Description>
+    <Description xml:lang="en">PisiLinux 2.0 Repository</Description>
+    <Description xml:lang="es">PisiLinux 2.0 Repositorio</Description>
+    <Description xml:lang="nl">PisiLinux 2.0 Opslagplaats</Description>
+    <Type>Core</Type>
+    <BinaryName>PisiLinux</BinaryName>
+    <Obsoletes>
+        <!--glibc-32bit merge in glibc-->
+        <Package>glibc-32bit</Package>
+        <Package>libfreebob</Package>
+        <Package>libfreebob-devel</Package>
+        <!-- separeted, replaced packages-->
+        <!--Package>kdgantt2</Package>
+        <Package>prison-qt5</Package>
+        <Package>prison-qt5-devel</Package>
+        <Package>gpgmepp</Package-->
+        <Package>kde-baseapps</Package>
+        <Package>kde-baseapps-devel</Package>
+        <Package>xorg-video-modesetting</Package>
+        <!--no longer avilable, replaced qt5-quickcontrols2-->
+        <Package>qt5-quick1</Package>
+        <Package>qt5-quick1-devel</Package>
+        <Package>gstreamer-vaapi</Package>
+        <Package>xorg-input-aiptek</Package>
+        <Package>xorg-video-modesetting</Package>
+        <Package>xorriso</Package>
+        <!--for yali -->
+        <Package>xorg-video-nvidia304</Package>
+        <Package>xorg-video-nvidia340</Package>
+        <Package>xorg-video-nvidia340-32bit</Package>
+        <Package>xorg-video-nvidia304-32bit</Package>
+        <Package>module-nvidia-current</Package>
+        <Package>module-nvidia304</Package>
+        <Package>module-nvidia340</Package>
+        <Package>nvidia-settings</Package>
+        <Package>nvidia-xconfig</Package>
+        <Package>xorg-video-nvidia-current</Package>
+        <Package>xorg-video-nvidia-current-32bit</Package>
+        <!-- dirty fix-->
+        <Package>mkinitcpio</Package>
+        <Package>busybox-mkinitcpio</Package>
+        <Package>Calamares</Package>
+        <Package>calamares-theme-pisilinux</Package>
+        <!-- Reduce players, video -->
+        <Package>vlc-lua</Package>
+        <Package>vlc</Package>
+        <Package>smplayer</Package>
+        <Package>kaffeine</Package>
+        <Package>obs-studio</Package>
+        <Package>obs-studio-devel</Package>
+        <Package>qmplay2</Package>
+        <Package>qmplay2-devel</Package>
+        <Package>plasma-mediacenter</Package>
+        <!-- next is obsoletes -->
+        <!--Package>gst-libav-next</Package>
+        <Package>gst-plugins-bad-next</Package>
+        <Package>gst-plugins-bad-next-devel</Package>
+        <Package>gst-plugins-base-next</Package>
+        <Package>gst-plugins-base-next-devel</Package>
+        <Package>gst-plugins-good-next</Package>
+        <Package>gst-plugins-ugly-next</Package>
+        <Package>gstreamer-next</Package>
+        <Package>gstreamer-next-devel</Package>
+        <Package>gstreamer-vaapi-next</Package>
+        <Package>gstreamer-vaapi-next-devel</Package>
+        <Package>gstreamermm-next</Package>
+        <Package>gstreamermm-next-devel</Package>
+        <Package>gstreamer-next-32bit</Package-->
+    </Obsoletes>
+</PISI>

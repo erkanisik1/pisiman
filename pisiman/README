@@ -1,0 +1,9 @@
+Pisiman - Pisi ISO Creator
+==============================
+
+Requirements
+------------
+ - cdrkit
+ - syslinux
+ - squashfs-tools
+ - pyqtermwidget (Required for GUI)
