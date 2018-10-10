@@ -28,20 +28,20 @@
         <Package>xorg-video-modesetting</Package>
         <Package>xorriso</Package>
         <!-- next is obsoletes -->
-        <Package>gst-libav-next</Package>
-        <Package>gst-plugins-bad-next</Package>
-        <Package>gst-plugins-bad-next-devel</Package>
-        <Package>gst-plugins-base-next</Package>
-        <Package>gst-plugins-base-next-devel</Package>
-        <Package>gst-plugins-good-next</Package>
-        <Package>gst-plugins-ugly-next</Package>
-        <Package>gstreamer-next</Package>
-        <Package>gstreamer-next-devel</Package>
-        <Package>gstreamer-vaapi-next</Package>
-        <Package>gstreamer-vaapi-next-devel</Package>
-        <Package>gstreamermm-next</Package>
-        <Package>gstreamermm-next-devel</Package>
-        <Package>gstreamer-next-32bit</Package>
+        <Package>gst-libav</Package>
+        <Package>gst-plugins-bad</Package>
+        <Package>gst-plugins-bad-devel</Package>
+        <Package>gst-plugins-base</Package>
+        <Package>gst-plugins-base-devel</Package>
+        <Package>gst-plugins-good</Package>
+        <Package>gst-plugins-ugly</Package>
+        <Package>gstreamer</Package>
+        <Package>gstreamer-devel</Package>
+        <Package>gstreamer-vaapi</Package>
+        <Package>gstreamer-vaapi-devel</Package>
+        <Package>gstreamermm</Package>
+        <Package>gstreamermm-devel</Package>
+        <Package>gstreamer-32bit</Package>
         <!-- kde-l10n-* obsoletes-->
         <Package>kde-l10n-ar</Package>
         <Package>kde-l10n-bg</Package>
@@ -96,6 +96,29 @@
         <Package>kde-l10n-wa</Package>
         <Package>kde-l10n-zh_CN</Package>
         <Package>kde-l10n-zh_TW</Package>
+        <Package>kde-l10n-ca-doc</Package>
+        <Package>kde-l10n-cs-doc</Package>
+        <Package>kde-l10n-da-doc</Package>
+        <Package>kde-l10n-de-doc</Package>
+        <Package>kde-l10n-el-doc</Package>
+        <Package>kde-l10n-en_GB-doc</Package>
+        <Package>kde-l10n-es-doc</Package>
+        <Package>kde-l10n-et-doc</Package>
+        <Package>kde-l10n-fr-doc</Package>
+        <Package>kde-l10n-gl-doc</Package>
+        <Package>kde-l10n-it-doc</Package>
+        <Package>kde-l10n-ja-doc</Package>
+        <Package>kde-l10n-lt-doc</Package>
+        <Package>kde-l10n-nb-doc</Package>
+        <Package>kde-l10n-nl-doc</Package>
+        <Package>kde-l10n-nn-doc</Package>
+        <Package>kde-l10n-pl-doc</Package>
+        <Package>kde-l10n-pt-doc</Package>
+        <Package>kde-l10n-pt_BR-doc</Package>
+        <Package>kde-l10n-ru-doc</Package>
+        <Package>kde-l10n-sv-doc</Package>
+        <Package>kde-l10n-tr-doc</Package>
+        <Package>kde-l10n-uk-doc</Package>
         <!--for yali -->
         <Package>xorg-video-nvidia304</Package>
         <Package>xorg-video-nvidia340</Package>
@@ -124,4 +147,4 @@
         <Package>qmplay2-devel</Package>
         <Package>plasma-mediacenter</Package>
     </Obsoletes>
-</PISI> 
+</PISI>
