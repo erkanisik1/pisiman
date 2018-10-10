@@ -234,7 +234,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Pardusman"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Pisi Linux iso creator"))
         self.label.setText(_translate("MainWindow", "Image title"))
         self.lineTitle.setToolTip(_translate("MainWindow", "The title of the Pardus image"))
         self.label_5.setText(_translate("MainWindow", "Extra parameters"))
